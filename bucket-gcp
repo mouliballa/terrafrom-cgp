@@ -1,0 +1,18 @@
+provider "google" {
+project = "gce-challange"
+  region  = "us-centra11"
+  zone    = "us-central1-a"
+}
+
+resource "google_storage_bucket" "terraform--store" {
+  name     = "image-store-bucket-mine"
+}
+
+
+terraform {
+  backend "gcs" {
+bucket  = "image-store-bucket-mine"
+prefix  = "terraform/state"
+  }
+}
+
