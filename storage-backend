@@ -1,0 +1,2 @@
+# backend.hcl
+bucket         = "image-store-bucket-mine"
