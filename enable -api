@@ -1,0 +1,17 @@
+project = "gce-challange"
+  region  = "us-centra11"
+  zone    = "us-central1-a"
+}
+
+resource "google_project_service" "zync" {
+  service = "zync.googleapis.com"
+}
+
+
+===
+resource "random_id" "instance_id" {
+  byte_length = 8
+}
+output "ip" {
+  value = "${random_id.instance_id.byte_length}"
+}
