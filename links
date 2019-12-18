@@ -3,8 +3,14 @@
 
 https://github.com/alpalwal/gcp_terraform_sample_env/blob/master/main.tf
 https://github.com/tomhipwell/glowing-octo-enigma/blob/master/terraform/composer/main.tf
+https://github.com/tasdikrahman/terraform-gcp-examples
 
 instnace groups: https://github.com/ballamouli91/terraform-provider-google
+
+https://github.com/sethvargo/terraform-gcp-examples/blob/master/public-instance-webserver/main.tf
+https://github.com/terraform-providers/terraform-provider-google/tree/master/examples
+https://github.com/GoogleCloudPlatform/terraform-google-examples/blob/master/example-custom-machine-types/variables.tf
+https://raw.githubusercontent.com/sethvargo/terraform-gcp-examples/master/public-instance-webserver/main.tf 
 
 ==================
 
