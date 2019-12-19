@@ -11,6 +11,9 @@ https://github.com/sethvargo/terraform-gcp-examples/blob/master/public-instance-
 https://github.com/terraform-providers/terraform-provider-google/tree/master/examples
 https://github.com/GoogleCloudPlatform/terraform-google-examples/blob/master/example-custom-machine-types/variables.tf
 https://raw.githubusercontent.com/sethvargo/terraform-gcp-examples/master/public-instance-webserver/main.tf 
+https://github.com/binxio/blog-how-to-expose-your-api-using-google-cloud-endpoints
+https://github.com/binxio/blog-configuring-google-cloud-cdn
+https://github.com/binxio/blog-configuring-google-global-load-balancer-application
 
 ==================
 
@@ -19,5 +22,7 @@ https://medium.com/@prashantapaudel/terraform-zero-to-hero-edf642654943
 
 https://medium.com/google-cloud/how-to-use-terraform-without-server-976d922f3f72
 
-
+https://binx.io/blog/2018/11/19/how-to-configure-global-load-balancing-with-google-cloud-platform/
+https://binx.io/blog/2018/11/24/how-to-configure-the-google-cloud-content-delivery-network/
 ===
+global_compute_address--> http://man.hubwiz.com/docset/Terraform.docset/Contents/Resources/Documents/docs/providers/google/d/datasource_compute_global_address.html
