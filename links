@@ -24,5 +24,6 @@ https://medium.com/google-cloud/how-to-use-terraform-without-server-976d922f3f72
 
 https://binx.io/blog/2018/11/19/how-to-configure-global-load-balancing-with-google-cloud-platform/
 https://binx.io/blog/2018/11/24/how-to-configure-the-google-cloud-content-delivery-network/
+https://www.nebulaworks.com/blog/2019/04/22/simplify-your-gce-instance-bootstrapping-with-terraform/
 ===
 global_compute_address--> http://man.hubwiz.com/docset/Terraform.docset/Contents/Resources/Documents/docs/providers/google/d/datasource_compute_global_address.html
